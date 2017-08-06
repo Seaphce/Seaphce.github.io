@@ -29,6 +29,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 6.上传代码到远程仓库
   
 	git push -u origin master
+	
+###github删除文件
+	1.git rm --cached filename
+	2.git commit -m "hehe"
+	3.git push origin
+	
+	
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
